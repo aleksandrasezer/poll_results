@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/poll_results/static/css/main.560d66a8.chunk.css",
+    "main.js": "/poll_results/static/js/main.876602c8.chunk.js",
+    "main.js.map": "/poll_results/static/js/main.876602c8.chunk.js.map",
+    "runtime-main.js": "/poll_results/static/js/runtime-main.5f54afd1.js",
+    "runtime-main.js.map": "/poll_results/static/js/runtime-main.5f54afd1.js.map",
+    "static/js/2.42f50b90.chunk.js": "/poll_results/static/js/2.42f50b90.chunk.js",
+    "static/js/2.42f50b90.chunk.js.map": "/poll_results/static/js/2.42f50b90.chunk.js.map",
+    "static/js/3.4f81142e.chunk.js": "/poll_results/static/js/3.4f81142e.chunk.js",
+    "static/js/3.4f81142e.chunk.js.map": "/poll_results/static/js/3.4f81142e.chunk.js.map",
+    "index.html": "/poll_results/index.html",
+    "static/css/main.560d66a8.chunk.css.map": "/poll_results/static/css/main.560d66a8.chunk.css.map",
+    "static/js/2.42f50b90.chunk.js.LICENSE.txt": "/poll_results/static/js/2.42f50b90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f54afd1.js",
+    "static/js/2.42f50b90.chunk.js",
+    "static/css/main.560d66a8.chunk.css",
+    "static/js/main.876602c8.chunk.js"
+  ]
+}
