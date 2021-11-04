@@ -1,0 +1,53 @@
+.itemContainer {
+    font-size: large;
+    padding: 10px;
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+.itemName {
+    padding: 10px;
+    float: right;
+}
+.itemVotes {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-radius: 10px;
+    float: left;
+    color: white;
+    box-shadow: 3px 3px 3px lightgrey;
+}
+
+/*less then40% of votes*/
+.less40itemVoteContainer {
+    display: flex;
+    float: left;
+    width: 100%;
+}
+.less40ItemVotes {
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    text-align: left;
+}
+.less40ItemsShare {
+    padding: 10px;
+    color: black;
+}
+
+/*less then 10% of votes*/
+.less10itemVoteContainer {
+    display: flex;
+    float: left;
+    width: 100%;
+}
+.less10ItemVotes {
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    text-align: left;
+}
+.less10ItemsShare {
+    padding: 10px;
+    color: black;
+}
